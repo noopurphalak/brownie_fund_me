@@ -1,0 +1,7 @@
+__pycache__
+.env
+.python-version
+.history
+.hypothesis/
+build/
+reports/
